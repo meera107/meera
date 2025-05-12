@@ -1,7 +1,7 @@
 # Meera
 **No-Code Developer | Webflow · Framer · Wix Studio | Aspiring Full-Stack Developer**  
 
-# Meera Kevadiya
+# Meera Ghelani
 
 **Designing and building elegant, responsive websites with no-code tools and creative design workflows.**
 
