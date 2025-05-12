@@ -40,7 +40,6 @@ Featured Projects –
 - **GitHub Link**: [https://github.com/meera107/Metana-Full-Stack].
 
 
-Skills & Tools –
 
 ## Skills & Tools 🛠️
 
