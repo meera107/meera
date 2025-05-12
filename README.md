@@ -5,8 +5,6 @@
 
 **Designing and building elegant, responsive websites with no-code tools and creative design workflows.**
 
-![Profile Badge](https://img.shields.io/badge/-GitHub_Profile-blue?style=for-the-badge&logo=github)
-
 ## About Me 👋
 
 Hi there! I'm a Webflow Developer, passionate about  creating modern, responsive websites that blend intuitive design with smooth functionality. With over 2 years of experience and strong foundation in visual development platforms like Webflow, Framer, and Wix Studio, I specialize in building fast, user-friendly web experiences without writing traditional code. Currently, I'm diving deeper into the world of code by learning full-stack web development, aiming to combine the speed and creativity of no-code with the flexibility of custom development.
@@ -29,33 +27,24 @@ Here's how my repositories are organized:
 - **Open-Source Contributions**: Projects I’ve contributed to in the open-source community.
 
 **Popular Repositories**:
-- [Repository 1 Name](#): Brief description of the repository.
-- [Repository 2 Name](#): Brief description of the repository.
+- [Metana-Full_stack](#): This project includes all the tasks and work done during the bootcamp by Metana for the full stack development.
 Featured Projects –
 
 ## Featured Projects 🚀
 
-### [Project Name 1]
-- **Description**: [Short summary of what the project does].
-- **Features**: [Key features of the project].
-- **Tech Stack**: [Languages, frameworks, and tools used].
-- **Live Demo**: [Link to live version, if available].
-- **GitHub Link**: [Link to the repository].
+### [Metana-Full-Stack]
+- **Description**: [This repositery contains all the work which was during the learning of the the Full Stak Development Bootcamp by Metana].
+- **Features**: [There are no ssuch special features included in this repo].
+- **Tech Stack**: [Js, html, css, git].
+- **Live Demo**: [There is no live demo available for the moment].
+- **GitHub Link**: [https://github.com/meera107/Metana-Full-Stack].
 
----
 
-### [Project Name 2]
-- **Description**: [Short summary of what the project does].
-- **Features**: [Key features of the project].
-- **Tech Stack**: [Languages, frameworks, and tools used].
-- **Live Demo**: [Link to live version, if available].
-- **GitHub Link**: [Link to the repository].
 Skills & Tools –
 
 ## Skills & Tools 🛠️
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 
 ### Frameworks
@@ -71,5 +60,5 @@ Call to Action –
 
 I’m always looking for exciting new projects to work on. If you’re interested in collaborating or have an opportunity in mind, feel free to reach out:
 
-- 📧 **Email**: [Your email address]
-- 💼 **LinkedIn**: [Your LinkedIn profile link]
+- 📧 **Email**: [meeghelani@gmail.com]
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/meera-kevadiya-827014321/]
